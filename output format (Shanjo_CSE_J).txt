@@ -1,0 +1,12 @@
+Name: Shanjo
+Class: CSE
+Section: J
+Number of subjects: 6
+Subjects, Total Marks, Marks Obtained, Credits, Absent
+DSA, 100, 98, 3, No
+OS, 100, 89, 3, No
+TBVP, 100, 88, 2, No
+COA, 100, 88, 2, No
+DTM, 100, 85, 2, No
+APP, 100, 89, 3, No
+CGPA: 9.00
